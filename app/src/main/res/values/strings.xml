@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Feliz Cumpleaños</string>
+    <string name="Feliz_Cumpleaños_text">Feliz Cumpleaños, Sam!</string>
+    <string name="de_parte_de_emma_text">De parte de Emma</string>
 </resources>
