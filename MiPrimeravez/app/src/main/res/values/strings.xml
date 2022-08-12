@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aragon</string>
+    <string name="edit_message" translatable="false">Ingrese un saludo!</string>
+    <string name="button_send" translatable="false">!Saludar!</string>
+</resources>
